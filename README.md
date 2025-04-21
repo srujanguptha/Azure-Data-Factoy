@@ -153,7 +153,7 @@ It contains:
 
 ---
 ### 📌 Pipeline Overview
-![Pipeline View](images/pipeline_view.png)
+![Pipeline View](pipeline.png)
 
 ### 🔄 Data Flow Diagram
 ![Data Flow](images/dataflow.png)
